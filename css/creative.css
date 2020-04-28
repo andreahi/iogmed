@@ -9593,6 +9593,10 @@ hr.light {
   font-size: 55px;
 }
 
+.logo-opacity {
+  opacity: 0.95;
+}
+
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
